@@ -1,0 +1,2 @@
+# Vexsolquo-79 product sheet
+The Vexsolquo-79 is an industrial unit. It has a supply voltage of 249 volts, a warranty period of 37 months, and a rated load of 444 kilograms. Handle the Vexsolquo-79 according to site safety rules. Contact the product desk for service intervals.

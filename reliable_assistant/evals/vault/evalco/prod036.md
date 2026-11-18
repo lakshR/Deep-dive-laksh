@@ -1,0 +1,2 @@
+# Kalantek-25 product sheet
+The Kalantek-25 is an industrial unit. It has a warranty period of 41 months, components supplied by Ananmor Industries, and a maximum operating temperature of 147 degrees Celsius. Handle the Kalantek-25 according to site safety rules. Contact the product desk for service intervals.

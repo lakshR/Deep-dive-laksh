@@ -1,0 +1,2 @@
+# Solmorzor-51 product sheet
+The Solmorzor-51 is an industrial unit. It has a supply voltage of 426 volts, a warranty period of 52 months, and is dispatched from the Lyon warehouse. Handle the Solmorzor-51 according to site safety rules. Contact the product desk for service intervals.

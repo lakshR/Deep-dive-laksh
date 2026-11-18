@@ -1,0 +1,2 @@
+# Ixlinsol-60 product sheet
+The Ixlinsol-60 is an industrial unit. It has components supplied by Anmorlin Industries, a maximum operating temperature of 91 degrees Celsius, and a rated load of 70 kilograms. Handle the Ixlinsol-60 according to site safety rules. Contact the product desk for service intervals.

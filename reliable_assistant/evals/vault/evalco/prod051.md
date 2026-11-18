@@ -1,0 +1,2 @@
+# Numorpra-49 product sheet
+The Numorpra-49 is an industrial unit. It has a rated load of 561 kilograms, a warranty period of 53 months, and is dispatched from the Gdansk warehouse. Handle the Numorpra-49 according to site safety rules. Contact the product desk for service intervals.

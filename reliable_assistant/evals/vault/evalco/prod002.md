@@ -1,0 +1,2 @@
+# Praanbel-59 product sheet
+The Praanbel-59 is an industrial unit. It has components supplied by Ixkalbel Industries, a rated load of 328 kilograms, and a maximum operating temperature of 174 degrees Celsius. Handle the Praanbel-59 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Mormorquo-54 product sheet
+The Mormorquo-54 is an industrial unit. It has a maximum operating temperature of 137 degrees Celsius, a rated load of 102 kilograms, and components supplied by Mormorkal Industries. Handle the Mormorquo-54 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Nukalan-89 product sheet
+The Nukalan-89 is an industrial unit. It has is dispatched from the Rotterdam warehouse, a warranty period of 24 months, and a maximum operating temperature of 95 degrees Celsius. Handle the Nukalan-89 according to site safety rules. Contact the product desk for service intervals.

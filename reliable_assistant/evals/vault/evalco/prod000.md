@@ -1,0 +1,2 @@
+# Solbeltek-84 product sheet
+The Solbeltek-84 is an industrial unit. It has a warranty period of 39 months, a rated load of 796 kilograms, and is dispatched from the Leeds warehouse. Handle the Solbeltek-84 according to site safety rules. Contact the product desk for service intervals.

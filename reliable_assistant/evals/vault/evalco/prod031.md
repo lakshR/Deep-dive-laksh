@@ -1,0 +1,2 @@
+# Soldrazor-15 product sheet
+The Soldrazor-15 is an industrial unit. It has is dispatched from the Rotterdam warehouse, components supplied by Morkaltek Industries, and a supply voltage of 96 volts. Handle the Soldrazor-15 according to site safety rules. Contact the product desk for service intervals.

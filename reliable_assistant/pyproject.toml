@@ -1,0 +1,18 @@
+[project]
+name = "reliable-assistant"
+version = "0.1.0"
+description = "Reliable Assistant v1 (see ../design.md)"
+requires-python = ">=3.11"
+dependencies = ["fastapi", "uvicorn", "pydantic>=2", "pluggy", "mcp", "pyjwt", "redis", "httpx",
+                "rank-bm25", "faiss-cpu", "onnxruntime", "python-ulid"]
+
+[project.optional-dependencies]
+dev = ["pytest", "pytest-asyncio"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+asyncio_mode = "auto"
+testpaths = ["tests"]

@@ -1,0 +1,2 @@
+# Belixbel-96 product sheet
+The Belixbel-96 is an industrial unit. It has components supplied by Solixkal Industries, a supply voltage of 362 volts, and a warranty period of 6 months. Handle the Belixbel-96 according to site safety rules. Contact the product desk for service intervals.

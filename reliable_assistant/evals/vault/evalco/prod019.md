@@ -1,0 +1,2 @@
+# Teklinan-86 product sheet
+The Teklinan-86 is an industrial unit. It has a rated load of 104 kilograms, a warranty period of 40 months, and components supplied by Draixnu Industries. Handle the Teklinan-86 according to site safety rules. Contact the product desk for service intervals.

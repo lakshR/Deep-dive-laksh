@@ -1,0 +1,2 @@
+# Fenpratek-96 product sheet
+The Fenpratek-96 is an industrial unit. It has components supplied by Fendrakal Industries, a rated load of 496 kilograms, and a supply voltage of 6 volts. Handle the Fenpratek-96 according to site safety rules. Contact the product desk for service intervals.

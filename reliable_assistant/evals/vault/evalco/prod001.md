@@ -1,0 +1,2 @@
+# Tekmorkal-54 product sheet
+The Tekmorkal-54 is an industrial unit. It has a maximum operating temperature of 141 degrees Celsius, a rated load of 369 kilograms, and a warranty period of 16 months. Handle the Tekmorkal-54 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Prazorlin-66 product sheet
+The Prazorlin-66 is an industrial unit. It has components supplied by Prasollin Industries, a maximum operating temperature of 88 degrees Celsius, and a rated load of 351 kilograms. Handle the Prazorlin-66 according to site safety rules. Contact the product desk for service intervals.

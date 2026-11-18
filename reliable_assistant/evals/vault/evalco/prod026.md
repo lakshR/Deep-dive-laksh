@@ -1,0 +1,2 @@
+# Zorlinvex-48 product sheet
+The Zorlinvex-48 is an industrial unit. It has a rated load of 501 kilograms, components supplied by Pradranu Industries, and a supply voltage of 136 volts. Handle the Zorlinvex-48 according to site safety rules. Contact the product desk for service intervals.

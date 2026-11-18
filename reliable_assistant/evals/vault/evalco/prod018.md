@@ -1,0 +1,2 @@
+# Zorfenpra-27 product sheet
+The Zorfenpra-27 is an industrial unit. It has is dispatched from the Lyon warehouse, components supplied by Bellinvex Industries, and a maximum operating temperature of 47 degrees Celsius. Handle the Zorfenpra-27 according to site safety rules. Contact the product desk for service intervals.

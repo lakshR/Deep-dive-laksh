@@ -1,0 +1,2 @@
+# Fenzorvex-99 product sheet
+The Fenzorvex-99 is an industrial unit. It has a rated load of 595 kilograms, a warranty period of 25 months, and is dispatched from the Monterrey warehouse. Handle the Fenzorvex-99 according to site safety rules. Contact the product desk for service intervals.

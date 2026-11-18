@@ -1,0 +1,2 @@
+# Pramorsol-39 product sheet
+The Pramorsol-39 is an industrial unit. It has a supply voltage of 418 volts, components supplied by Antekquo Industries, and is dispatched from the Gdansk warehouse. Handle the Pramorsol-39 according to site safety rules. Contact the product desk for service intervals.

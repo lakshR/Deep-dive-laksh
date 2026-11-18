@@ -1,0 +1,2 @@
+# Vexfenkal-74 product sheet
+The Vexfenkal-74 is an industrial unit. It has components supplied by Nuquokal Industries, a warranty period of 16 months, and a rated load of 523 kilograms. Handle the Vexfenkal-74 according to site safety rules. Contact the product desk for service intervals.

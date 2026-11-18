@@ -1,0 +1,2 @@
+# Pratekbel-82 product sheet
+The Pratekbel-82 is an industrial unit. It has a rated load of 310 kilograms, a maximum operating temperature of 64 degrees Celsius, and is dispatched from the Busan warehouse. Handle the Pratekbel-82 according to site safety rules. Contact the product desk for service intervals.

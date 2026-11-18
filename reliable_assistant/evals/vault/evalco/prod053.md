@@ -1,0 +1,2 @@
+# Zoranfen-38 product sheet
+The Zoranfen-38 is an industrial unit. It has a maximum operating temperature of 142 degrees Celsius, components supplied by Morbelquo Industries, and is dispatched from the Osaka warehouse. Handle the Zoranfen-38 according to site safety rules. Contact the product desk for service intervals.

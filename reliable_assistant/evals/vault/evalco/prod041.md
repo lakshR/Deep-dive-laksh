@@ -1,0 +1,2 @@
+# Quofenmor-20 product sheet
+The Quofenmor-20 is an industrial unit. It has a supply voltage of 72 volts, a maximum operating temperature of 90 degrees Celsius, and a rated load of 306 kilograms. Handle the Quofenmor-20 according to site safety rules. Contact the product desk for service intervals.

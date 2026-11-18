@@ -1,0 +1,2 @@
+# Tekdrafen-59 product sheet
+The Tekdrafen-59 is an industrial unit. It has a supply voltage of 415 volts, a maximum operating temperature of 73 degrees Celsius, and a rated load of 360 kilograms. Handle the Tekdrafen-59 according to site safety rules. Contact the product desk for service intervals.

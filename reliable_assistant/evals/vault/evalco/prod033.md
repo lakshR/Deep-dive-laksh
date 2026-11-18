@@ -1,0 +1,2 @@
+# Solbelpra-78 product sheet
+The Solbelpra-78 is an industrial unit. It has is dispatched from the Lyon warehouse, a rated load of 399 kilograms, and components supplied by Andratek Industries. Handle the Solbelpra-78 according to site safety rules. Contact the product desk for service intervals.

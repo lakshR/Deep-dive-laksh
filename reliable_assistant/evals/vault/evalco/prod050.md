@@ -1,0 +1,2 @@
+# Kallinzor-60 product sheet
+The Kallinzor-60 is an industrial unit. It has a maximum operating temperature of 127 degrees Celsius, a warranty period of 16 months, and a rated load of 707 kilograms. Handle the Kallinzor-60 according to site safety rules. Contact the product desk for service intervals.

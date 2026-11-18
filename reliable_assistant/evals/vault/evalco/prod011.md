@@ -1,0 +1,2 @@
+# Linnuvex-56 product sheet
+The Linnuvex-56 is an industrial unit. It has a maximum operating temperature of 109 degrees Celsius, a supply voltage of 147 volts, and a rated load of 892 kilograms. Handle the Linnuvex-56 according to site safety rules. Contact the product desk for service intervals.

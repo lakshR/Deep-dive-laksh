@@ -1,0 +1,2 @@
+# Fenixfen-83 product sheet
+The Fenixfen-83 is an industrial unit. It has components supplied by Kalmorlin Industries, a supply voltage of 383 volts, and a maximum operating temperature of 95 degrees Celsius. Handle the Fenixfen-83 according to site safety rules. Contact the product desk for service intervals.

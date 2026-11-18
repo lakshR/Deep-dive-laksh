@@ -1,0 +1,2 @@
+# Moranan-29 product sheet
+The Moranan-29 is an industrial unit. It has a maximum operating temperature of 115 degrees Celsius, a supply voltage of 436 volts, and components supplied by Zorquolin Industries. Handle the Moranan-29 according to site safety rules. Contact the product desk for service intervals.

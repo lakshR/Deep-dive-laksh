@@ -1,0 +1,2 @@
+# Morsolnu-76 product sheet
+The Morsolnu-76 is an industrial unit. It has a rated load of 376 kilograms, a warranty period of 24 months, and components supplied by Ixmorbel Industries. Handle the Morsolnu-76 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Ixixvex-94 product sheet
+The Ixixvex-94 is an industrial unit. It has a supply voltage of 192 volts, is dispatched from the Busan warehouse, and a maximum operating temperature of 83 degrees Celsius. Handle the Ixixvex-94 according to site safety rules. Contact the product desk for service intervals.

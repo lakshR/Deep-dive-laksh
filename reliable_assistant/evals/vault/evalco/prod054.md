@@ -1,0 +1,2 @@
+# Anfenfen-20 product sheet
+The Anfenfen-20 is an industrial unit. It has components supplied by Ixbelan Industries, is dispatched from the Gdansk warehouse, and a warranty period of 18 months. Handle the Anfenfen-20 according to site safety rules. Contact the product desk for service intervals.

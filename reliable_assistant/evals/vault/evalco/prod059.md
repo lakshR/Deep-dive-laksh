@@ -1,0 +1,2 @@
+# Tekpranu-52 product sheet
+The Tekpranu-52 is an industrial unit. It has a warranty period of 12 months, a rated load of 744 kilograms, and is dispatched from the Tallinn warehouse. Handle the Tekpranu-52 according to site safety rules. Contact the product desk for service intervals.

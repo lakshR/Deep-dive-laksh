@@ -1,0 +1,2 @@
+# Linlinzor-88 product sheet
+The Linlinzor-88 is an industrial unit. It has a maximum operating temperature of 155 degrees Celsius, is dispatched from the Leeds warehouse, and components supplied by Quoprakal Industries. Handle the Linlinzor-88 according to site safety rules. Contact the product desk for service intervals.

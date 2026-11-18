@@ -1,0 +1,2 @@
+# Ixanix-55 product sheet
+The Ixanix-55 is an industrial unit. It has a rated load of 612 kilograms, a supply voltage of 455 volts, and is dispatched from the Rotterdam warehouse. Handle the Ixanix-55 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Vexdrazor-70 product sheet
+The Vexdrazor-70 is an industrial unit. It has components supplied by Nusoldra Industries, a rated load of 200 kilograms, and a maximum operating temperature of 110 degrees Celsius. Handle the Vexdrazor-70 according to site safety rules. Contact the product desk for service intervals.

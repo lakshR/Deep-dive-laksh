@@ -1,0 +1,2 @@
+# Fenquoix-76 product sheet
+The Fenquoix-76 is an industrial unit. It has a warranty period of 11 months, components supplied by Quopravex Industries, and a rated load of 553 kilograms. Handle the Fenquoix-76 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Vexdrapra-97 product sheet
+The Vexdrapra-97 is an industrial unit. It has a supply voltage of 395 volts, a rated load of 19 kilograms, and components supplied by Belkalix Industries. Handle the Vexdrapra-97 according to site safety rules. Contact the product desk for service intervals.

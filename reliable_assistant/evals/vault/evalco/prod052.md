@@ -1,0 +1,2 @@
+# Quoixnu-84 product sheet
+The Quoixnu-84 is an industrial unit. It has a maximum operating temperature of 106 degrees Celsius, a rated load of 237 kilograms, and a supply voltage of 344 volts. Handle the Quoixnu-84 according to site safety rules. Contact the product desk for service intervals.

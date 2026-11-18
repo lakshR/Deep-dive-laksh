@@ -1,0 +1,2 @@
+# Morbelan-60 product sheet
+The Morbelan-60 is an industrial unit. It has components supplied by Pratekvex Industries, a rated load of 866 kilograms, and is dispatched from the Leeds warehouse. Handle the Morbelan-60 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,12 @@
+# Ports/names chosen to avoid the unrelated signoz-* containers already on this host.
+name: reliable-assistant
+services:
+  redis:
+    image: redis:7
+    container_name: ra-redis
+    ports: ["6390:6379"]
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: ra-postgres
+    environment: {POSTGRES_USER: ra, POSTGRES_PASSWORD: ra_dev_only, POSTGRES_DB: ra}
+    ports: ["5433:5432"]

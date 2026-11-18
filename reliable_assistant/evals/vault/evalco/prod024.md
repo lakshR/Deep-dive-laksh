@@ -1,0 +1,2 @@
+# Ixlinan-55 product sheet
+The Ixlinan-55 is an industrial unit. It has is dispatched from the Perth warehouse, a rated load of 223 kilograms, and a warranty period of 36 months. Handle the Ixlinan-55 according to site safety rules. Contact the product desk for service intervals.

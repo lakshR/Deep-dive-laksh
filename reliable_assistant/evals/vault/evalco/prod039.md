@@ -1,0 +1,2 @@
+# Vextekbel-87 product sheet
+The Vextekbel-87 is an industrial unit. It has a warranty period of 19 months, a supply voltage of 253 volts, and a maximum operating temperature of 88 degrees Celsius. Handle the Vextekbel-87 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Ixpradra-75 product sheet
+The Ixpradra-75 is an industrial unit. It has a warranty period of 53 months, components supplied by Belnutek Industries, and a rated load of 639 kilograms. Handle the Ixpradra-75 according to site safety rules. Contact the product desk for service intervals.

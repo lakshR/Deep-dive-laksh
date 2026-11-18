@@ -1,0 +1,2 @@
+# Linnupra-99 product sheet
+The Linnupra-99 is an industrial unit. It has a supply voltage of 175 volts, a warranty period of 38 months, and a maximum operating temperature of 92 degrees Celsius. Handle the Linnupra-99 according to site safety rules. Contact the product desk for service intervals.

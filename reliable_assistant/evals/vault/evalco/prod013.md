@@ -1,0 +1,2 @@
+# Kalnulin-83 product sheet
+The Kalnulin-83 is an industrial unit. It has a rated load of 879 kilograms, a warranty period of 60 months, and components supplied by Teknulin Industries. Handle the Kalnulin-83 according to site safety rules. Contact the product desk for service intervals.

@@ -1,0 +1,2 @@
+# Fennutek-54 product sheet
+The Fennutek-54 is an industrial unit. It has is dispatched from the Perth warehouse, a warranty period of 47 months, and a maximum operating temperature of 139 degrees Celsius. Handle the Fennutek-54 according to site safety rules. Contact the product desk for service intervals.

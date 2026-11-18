@@ -1,0 +1,2 @@
+# Vexnufen-37 product sheet
+The Vexnufen-37 is an industrial unit. It has a warranty period of 28 months, a rated load of 768 kilograms, and a supply voltage of 51 volts. Handle the Vexnufen-37 according to site safety rules. Contact the product desk for service intervals.

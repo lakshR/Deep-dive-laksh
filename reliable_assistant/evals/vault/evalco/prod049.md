@@ -1,0 +1,2 @@
+# Tekquozor-78 product sheet
+The Tekquozor-78 is an industrial unit. It has a maximum operating temperature of 168 degrees Celsius, components supplied by Ixnuquo Industries, and a supply voltage of 321 volts. Handle the Tekquozor-78 according to site safety rules. Contact the product desk for service intervals.

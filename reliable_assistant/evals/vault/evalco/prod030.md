@@ -1,0 +1,2 @@
+# Ixbelbel-16 product sheet
+The Ixbelbel-16 is an industrial unit. It has a supply voltage of 211 volts, a maximum operating temperature of 71 degrees Celsius, and a warranty period of 8 months. Handle the Ixbelbel-16 according to site safety rules. Contact the product desk for service intervals.

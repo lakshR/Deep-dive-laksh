@@ -1,0 +1,2 @@
+# Tekanlin-23 product sheet
+The Tekanlin-23 is an industrial unit. It has a supply voltage of 147 volts, is dispatched from the Gdansk warehouse, and a maximum operating temperature of 142 degrees Celsius. Handle the Tekanlin-23 according to site safety rules. Contact the product desk for service intervals.

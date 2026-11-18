@@ -1,0 +1,2 @@
+# Belnutek-62 product sheet
+The Belnutek-62 is an industrial unit. It has is dispatched from the Leeds warehouse, a supply voltage of 423 volts, and components supplied by Drabelfen Industries. Handle the Belnutek-62 according to site safety rules. Contact the product desk for service intervals.

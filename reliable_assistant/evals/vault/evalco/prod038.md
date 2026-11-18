@@ -1,0 +1,2 @@
+# Vexnubel-75 product sheet
+The Vexnubel-75 is an industrial unit. It has a warranty period of 39 months, is dispatched from the Osaka warehouse, and a supply voltage of 48 volts. Handle the Vexnubel-75 according to site safety rules. Contact the product desk for service intervals.

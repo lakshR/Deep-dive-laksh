@@ -1,0 +1,2 @@
+# Tekfennu-23 product sheet
+The Tekfennu-23 is an industrial unit. It has a maximum operating temperature of 61 degrees Celsius, a rated load of 837 kilograms, and is dispatched from the Monterrey warehouse. Handle the Tekfennu-23 according to site safety rules. Contact the product desk for service intervals.

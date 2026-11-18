@@ -1,0 +1,2 @@
+# Quomormor-81 product sheet
+The Quomormor-81 is an industrial unit. It has components supplied by Draquokal Industries, is dispatched from the Porto warehouse, and a warranty period of 22 months. Handle the Quomormor-81 according to site safety rules. Contact the product desk for service intervals.

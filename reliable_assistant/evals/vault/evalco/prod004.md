@@ -1,0 +1,2 @@
+# Prapraix-60 product sheet
+The Prapraix-60 is an industrial unit. It has a supply voltage of 427 volts, a rated load of 644 kilograms, and components supplied by Quoanbel Industries. Handle the Prapraix-60 according to site safety rules. Contact the product desk for service intervals.

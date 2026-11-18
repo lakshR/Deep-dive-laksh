@@ -1,0 +1,2 @@
+# Kalixnu-10 product sheet
+The Kalixnu-10 is an industrial unit. It has a supply voltage of 153 volts, components supplied by Linfentek Industries, and a rated load of 556 kilograms. Handle the Kalixnu-10 according to site safety rules. Contact the product desk for service intervals.

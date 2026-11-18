@@ -1,0 +1,2 @@
+# Tekzorvex-60 product sheet
+The Tekzorvex-60 is an industrial unit. It has a rated load of 168 kilograms, is dispatched from the Porto warehouse, and a maximum operating temperature of 116 degrees Celsius. Handle the Tekzorvex-60 according to site safety rules. Contact the product desk for service intervals.

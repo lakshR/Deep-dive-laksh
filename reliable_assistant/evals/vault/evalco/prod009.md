@@ -1,0 +1,2 @@
+# Fenlinfen-56 product sheet
+The Fenlinfen-56 is an industrial unit. It has components supplied by Pranuvex Industries, is dispatched from the Osaka warehouse, and a warranty period of 37 months. Handle the Fenlinfen-56 according to site safety rules. Contact the product desk for service intervals.

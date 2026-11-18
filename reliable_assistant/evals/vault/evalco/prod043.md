@@ -1,0 +1,2 @@
+# Belbelan-88 product sheet
+The Belbelan-88 is an industrial unit. It has a rated load of 82 kilograms, is dispatched from the Porto warehouse, and a warranty period of 33 months. Handle the Belbelan-88 according to site safety rules. Contact the product desk for service intervals.

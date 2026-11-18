@@ -1,0 +1,2 @@
+# Kalsolvex-80 product sheet
+The Kalsolvex-80 is an industrial unit. It has components supplied by Prabelnu Industries, a rated load of 24 kilograms, and is dispatched from the Porto warehouse. Handle the Kalsolvex-80 according to site safety rules. Contact the product desk for service intervals.
